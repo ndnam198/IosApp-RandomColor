@@ -14,6 +14,7 @@
 		C03187EA2A555FB600A86056 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C03187E92A555FB600A86056 /* Main.storyboard */; };
 		C03187EC2A55605900A86056 /* ColorsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C03187EB2A55605900A86056 /* ColorsTableViewController.swift */; };
 		C03187EE2A5567D000A86056 /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C03187ED2A5567D000A86056 /* ColorDetailViewController.swift */; };
+		C03187F02A55C7E700A86056 /* UIColor+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = C03187EF2A55C7E700A86056 /* UIColor+Ext.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C03187E92A555FB600A86056 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		C03187EB2A55605900A86056 /* ColorsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsTableViewController.swift; sourceTree = "<group>"; };
 		C03187ED2A5567D000A86056 /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
+		C03187EF2A55C7E700A86056 /* UIColor+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Ext.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				C03187E12A555F7500A86056 /* Preview Content */,
 				C03187EB2A55605900A86056 /* ColorsTableViewController.swift */,
 				C03187ED2A5567D000A86056 /* ColorDetailViewController.swift */,
+				C03187EF2A55C7E700A86056 /* UIColor+Ext.swift */,
 			);
 			path = RandomCorlors;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				C03187DD2A555F7400A86056 /* ContentView.swift in Sources */,
 				C03187DB2A555F7400A86056 /* RandomCorlorsApp.swift in Sources */,
+				C03187F02A55C7E700A86056 /* UIColor+Ext.swift in Sources */,
 				C03187EC2A55605900A86056 /* ColorsTableViewController.swift in Sources */,
 				C03187EE2A5567D000A86056 /* ColorDetailViewController.swift in Sources */,
 			);
